@@ -1,0 +1,11 @@
+/**/
+body{
+  background-image: url("imagens/a.jpg");
+  background-repeat: no repeat; 
+  background-size: 380px 600px;
+}
+#btn{
+  margin-top: 550px;
+  margin-left: 120px;
+  border-radius: 60px;
+}
